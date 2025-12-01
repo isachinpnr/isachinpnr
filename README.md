@@ -57,12 +57,12 @@
 ---
 
 ## 📝 I Write Articles On
-*(Add when ready — Medium, Hashnode, Dev.to, Blogger etc.)*
+Coming Soon – My technical blogs on web development & science.
 
 ---
 
 ## 📄 Know About My Experiences
-*(Add your resume link here)*
+Everyday i surprised on Tech Stack so resume link is dynamic so.....
 
 ---
 
