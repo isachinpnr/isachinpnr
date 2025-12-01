@@ -16,15 +16,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate Snake Animations (Dark, Light, Neon & Pixel)
         uses: Platane/snk@v3
         with:
           github_user_name: isachinpnr
           outputs: |
-                  dist/github-snake-dark.svg?palette=github-dark
-                  dist/github-snake-neon.svg?color_snake=#39ff14&color_dots=#0a0a0a
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
+            dist/github-snake-neon.svg?color_snake=#39ff14&color_dots=#0a0a0a
+            dist/github-snake-pixel.svg?type=pixel
 
-      - name: Push snake animation to output branch
+      - name: Push animation files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
