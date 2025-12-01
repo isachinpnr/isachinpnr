@@ -7,8 +7,8 @@
 
 ---
 
-## 🔭 Currently Working On
-- **Luharide – Ride Sharing Application**  
+## 🔭 Currently Working On.....
+- Luharide – Ride Sharing Application  
   🚀 Live: https://luharide.in  
   📂 Repo: https://github.com/isachinpnr/luharide.git  
   _Building a modern ride-booking system with React, Node.js & real-time user flow._
@@ -16,22 +16,22 @@
 ---
 
 ## 👯 Looking to Collaborate On
-- **Linux Core Projects**
-- **Open-source development related to CLI tools & system utilities**  
+- Linux Core Projects
+- Open-source development related to CLI tools & system utilities  
   📂 Example: https://github.com/lsof-org/lsof.git
 
 ---
 
 ## 🤝 Looking for Help With
-- **Building a custom “lsof” root command tool**  
-- **Linux kernel-level system utilities**
+- Building a custom “lsof” root command tool  
+- Linux kernel-level system utilities
 
 ---
 
 ## 🌱 Currently Learning
-- **Cursor AI for development automation**
-- **Advanced React (Router, Redux Toolkit, Performance Optimizations)**
-- **Big Data Processing Concepts**
+- Cursor AI for development automation
+- Advanced React (Router, Redux Toolkit, Performance Optimizations)
+- Big Data Processing Concepts
 
 ---
 
