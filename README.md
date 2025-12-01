@@ -102,7 +102,6 @@ I think I am funny 😄 — but my bugs don’t agree!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-light.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-dark.svg" />
 </picture>
----
 
 # 🌐 Visitor Count
 <p align="left">
