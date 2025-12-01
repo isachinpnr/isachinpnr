@@ -97,27 +97,12 @@ I think I am funny 😄 — but my bugs don’t agree!
 </p>
 
 ---
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <strong>✨ Watch your GitHub contributions come alive! ✨</strong>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-light.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-dark.svg" />
 </picture>
-
-<p align="center">
-  <sub>🐍 Auto-updated every 12 hours.</sub>
-</p>
-
 ---
-
 
 # 🌐 Visitor Count
 <p align="left">
