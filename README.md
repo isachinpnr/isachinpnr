@@ -97,6 +97,7 @@ I think I am funny 😄 — but my bugs don’t agree!
 </p>
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-light.svg" />
