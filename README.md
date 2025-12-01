@@ -100,7 +100,7 @@ I think I am funny 😄 — but my bugs don’t agree!
 
 # 🔥 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake.svg" />
 </p>
 
 ---
