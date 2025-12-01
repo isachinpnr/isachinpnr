@@ -99,8 +99,9 @@ I think I am funny 😄 — but my bugs don’t agree!
 ---
 
 # 🔥 Contribution Snake Animation
+### 🐍 Neon Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-neon.svg" />
 </p>
 
 ---
