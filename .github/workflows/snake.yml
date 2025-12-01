@@ -20,7 +20,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: isachinpnr
-          outputs: dist/github-snake.svg
+          outputs: |
+                  dist/github-snake-dark.svg?palette=github-dark
+                  dist/github-snake-neon.svg?color_snake=#39ff14&color_dots=#0a0a0a
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
