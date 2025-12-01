@@ -99,10 +99,46 @@ I think I am funny 😄 — but my bugs don’t agree!
 ---
 
 # 🔥 Contribution Snake Animation
-### 🐍 Neon Snake Animation
+<!-- 🔥 PREMIUM SNAKE ANIMATION SECTION -->
+
+## 🐍 GitHub Contribution Snake — Premium Animated Edition
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-neon.svg" />
+  <strong>✨ Watch your contributions come alive with Neon, Pixel & Dark-Mode animations ✨</strong>
 </p>
+
+<br/>
+
+<!-- Auto Theme (Dark / Light Mode Snake) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
+<hr/>
+
+<!-- Neon Snake -->
+### 💚 Neon Snake Animation (Glowing Edition)
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-neon.svg" />
+</p>
+
+<br/>
+<hr/>
+
+<!-- Pixel Snake -->
+### 🎮 Pixel Snake (Retro Game Mode)
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/isachinpnr/isachinpnr/output/github-snake-pixel.svg" />
+</p>
+
+<br/>
+<p align="center">
+  <sub>🔥 This section is fully automated & updates every 12 hours.</sub>
+</p>
+
 
 ---
 
