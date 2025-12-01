@@ -78,16 +78,10 @@ I think I am funny 😄 — but my bugs don’t agree!
 
 ---
 
-# 📊 GitHub Stats
-<div align="center">
-  
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isachinpnr&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isachinpnr&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=isachinpnr&theme=tokyonight&border_radius=5)
-
-</div>
+<h3 align="center"> My Coding Streak</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isachinpnr&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+</p>
 
 ---
 
