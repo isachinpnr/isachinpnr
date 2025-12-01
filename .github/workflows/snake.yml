@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # Runs every 12 hours
   workflow_dispatch:
 
 permissions:
@@ -13,18 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Snake Animations (Dark, Light, Neon & Pixel)
+      - name: Generate Snake Animations (Dark + Light)
         uses: Platane/snk@v3
         with:
           github_user_name: isachinpnr
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-light.svg?palette=github-light
-            dist/github-snake-neon.svg?color_snake=#39ff14&color_dots=#0a0a0a
-            dist/github-snake-pixel.svg?type=pixel
+            dist/github-sake-light.svg?palette=github-light
 
       - name: Push animation files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
