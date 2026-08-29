@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Panwar</h1>
-<h3 align="center">A passionate Full Stack Developer & Tech Enthusiast from India</h3>
+<h3 align="center">Software Engineer | Backend & Distributed Systems</h3>
 
+<p> Backend-focused software engineer building APIs, asynchronous workflows, real-time systems, and database-driven applications.
+Interested in distributed systems, system design, backend architecture, reliability, performance optimization, and developer tooling.
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0CF7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+%2F+Cybersecurity+Learner;React+%7C+Node+%7C+MERN+Stack;Tech+Explorer+%26+Problem+Solver;DSA+%7C+Big+Data+%7C+AI+Tools" />
 </p>
